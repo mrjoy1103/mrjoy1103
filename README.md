@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Poojan Gadhiya
-- 👀 I’m interested in Competitive Coding and Cyber Security Analyst 
+- 👀 Interested in new challenges and innovations
 - 🌱 I’m currently learning Data Structures and Database Management
+- Just Dive in, Life is an ocean of opportunities
